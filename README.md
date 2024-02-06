@@ -1,8 +1,8 @@
-# Pizza Menu
+## Pizza Menu
 
-### Mastering the basics of React.
+### Mastering the basics of React
 
-#### Repo created for the Udemy course: [The Ultimate React Course 2024: React, Redux & More](https://www.udemy.com/course/the-ultimate-react-course), Section 5: Working With Components, Props and JSX.
+#### Repo created for the Udemy course: [The Ultimate React Course 2024: React, Redux & More](https://www.udemy.com/course/the-ultimate-react-course), Section 5: Working With Components, Props and JSX
 
 <!-- # Getting Started with Create React App
 
